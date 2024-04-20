@@ -1,0 +1,58 @@
+a {
+	font-size: 24px;
+	font-weight: 700;
+	color: #8D81FF;
+	text-decoration: none;
+	margin-top: 40px;
+	display: inline;
+	margin-left: 200px;
+}
+#active {
+	color:#4E6FAE ;
+}
+#foto {
+	margin-left: 30px;
+}
+#div1 {
+	width: 1450px;
+	height: 700px;
+	background-color:#E7E7E7 ;
+	margin-top: 100px ;
+	margin-bottom: 200px;
+}
+#suurati {
+	margin-left: 120px;
+}
+.zoli {
+	height: 48px;
+	width: 2px;
+	background-color: #5012D5 ;
+	display: inline-block;
+	margin: 0px 30px;
+}
+#text {
+	color: #4E6FAE;
+	font-size: 36px;
+	padding-left:150px ;
+	padding-top: 90px;
+}
+span{
+	color:#7E8898 ;
+	padding-left:150px ;
+	font-size: 20px;
+
+}
+
+.div2 {
+	
+	display: inline-block;
+	margin-right: 60px;
+	vertical-align: top;
+}
+#div2 {
+	display: inline-block;
+	margin-top: 90px ;
+}
+nav{
+	display: inline;
+}
