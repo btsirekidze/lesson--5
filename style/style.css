@@ -6,6 +6,7 @@ a {
 	margin-top: 40px;
 	display: inline;
 	margin-left: 200px;
+
 }
 #active {
 	color:#4E6FAE ;
@@ -18,29 +19,50 @@ a {
 	width: 30px;
 	padding: 5px;
 	margin-left: 40px;
+	line-height: 28px;
 }
 .tve {
 	color: #8D81FF;
 	font-size: 24px;
 	font-weight: 400;
 	margin-left: 40px;
+	line-height: 32px;
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+
   
 }
 .heading {
 	color: #4E6FAE;
-	width: 700;
+	font-weight: 700;
 	font-size: 20px;
 	margin-left: 40px;
+	line-height: 24px;
+	font-family: "Gugeshashvili_Rachveli", sans-serif;
+	
+
 }
 .text {
 	color: #4E6FAE;
 	width: 1021px;
 	margin-left: 40px;
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: 700;
+	letter-spacing: -1px;
+	font-family: "ALK Rounded Nusx Med", sans-serif;
+
+
 
 }
 li {
 	color: #4E6FAE;
 	width: 1021px;
+	width: 1021px;
+	margin-left: 40px;
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: 700;
+
 }
 .zoli {
 	height: 48px;

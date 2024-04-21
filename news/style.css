@@ -11,6 +11,8 @@ a {
 	color:#4E6FAE ;
 	
 }
+
+
 #surati {
 	margin-left: 120px;
 	margin-top: 60px;
@@ -37,7 +39,10 @@ a {
 	color: #4E6FAE ;
 	display: inline;
 	margin-top: 120px;
-	font-size: 26px;
+	font-size: 26px; 
+
+
+	
 }
 .div2 {
 	width: 500px;
@@ -55,6 +60,8 @@ a {
 }
 .text3 {
 	padding-left: 23px ;
+	font-family: "Roboto", sans-serif;
+	letter-spacing: -1px;
 }
 .foto2 {
 	padding-left: 20px;
@@ -62,6 +69,7 @@ a {
 }
 .text4 {
 	color: #7E8898 ;
+	font-family: "Roboto", sans-serif;
 
 }
 #div3 {
